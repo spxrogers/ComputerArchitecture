@@ -1,5 +1,3 @@
-Due: Monday 3/3/2014 @ 11:59pm
-
 Objective:
 ~~~~~~~~~~
 
