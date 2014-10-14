@@ -1,0 +1,2 @@
+Explain your results here:
+I was correct: count2 was marginally slower than count1. During my reseach on how the cmov op functioned I came across info on it's efficiency and applied that to my GUESS. Count1 could perform faster because it had more direct jumps and calls.

@@ -1,0 +1,27 @@
+(cd proj; timeout 120 make -s -k run) 2>&1
+freq = 2.660000GHz
+ws = 100, cycles/load = 3.024391
+ws = 200, cycles/load = 3.024951
+ws = 400, cycles/load = 3.024219
+ws = 800, cycles/load = 3.024226
+ws = 1600, cycles/load = 3.024231
+ws = 3200, cycles/load = 3.026838
+ws = 6400, cycles/load = 3.025020
+ws = 12800, cycles/load = 3.024363
+ws = 25600, cycles/load = 3.024938
+ws = 51200, cycles/load = 7.722602
+ws = 102400, cycles/load = 12.152084
+ws = 204800, cycles/load = 14.617553
+ws = 409600, cycles/load = 15.859293
+ws = 819200, cycles/load = 16.476301
+ws = 1638400, cycles/load = 19.546607
+ws = 3276800, cycles/load = 22.370706
+ws = 6553600, cycles/load = 54.291808
+ws = 13107200, cycles/load = 150.163712
+ws = 26214400, cycles/load = 204.906983
+ws = 52428800, cycles/load = 232.415902
+ws = 104857600, cycles/load = 249.765258
+ws = 209715200, cycles/load = 262.249827
+ws = 419430400, cycles/load = 277.835805
+ws = 838860800, cycles/load = 307.123889
+

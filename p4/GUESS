@@ -1,0 +1,13 @@
+Question: do you think the performance of your function will depend on
+    the passed limit?
+
+Answer: No. The perforamce of the function will depend on how many elements are passed into the array.
+
+--------------------------------------------------------------------
+
+Question: which function will perform better? count1 or count2?
+
+Answer: Count1 will be marginally better. CMOV executes a total higher number of instructions than could otherwise be coded without.
+
+
+

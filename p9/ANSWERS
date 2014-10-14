@@ -1,0 +1,9 @@
+* Number of cachce levels:
+	- Estimated 3 levels of caches, the cycles/load is expected to noticeably jump when there are cache misses and have to jump to the next level. The timing data shows four larger jumps in cycles/load in consistent ws increments, so the first three jumps would be to consecutive levels of cache and then a final one to go to memory. 
+
+
+* Latency Estimate: 
+	- L1: 3 cycles/load
+	- L2: 50 cycles/load
+	- L3: 200 cycles/load
+	- Memory: 300 cycles/load
